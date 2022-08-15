@@ -1,2 +1,2 @@
 # My-Tailwind-Projects
-all my tailwind projects
+my tailwind projects
